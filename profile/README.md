@@ -54,5 +54,5 @@ Szabványos tűzjelző rendszerek tervezés, telepítés és karbantartás。
 
 ## 📞 Elérhetőségek
 
-* ✉️ Email: [e-partner@epartner.hu](mailto:e-partner@epartner.hu)
-* 🌐 Web: [epartner.hu](https://epartner.hu)
+* ✉️ Email: [e-partner@e-partner.hu](mailto:e-partner@e-partner.hu)
+* 🌐 Web: [e-partner.hu](https://e-partner.hu)
